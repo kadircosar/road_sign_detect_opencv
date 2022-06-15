@@ -38,7 +38,7 @@ After circle detection we will use cv2.KMEANS_RANDOM_CENTERS.
 This function allows us to obtain the dominant colors in a certain area.
 We will use three frames in the detected circle to classify signs by required if statements.
 The key is decide best frames to classify signs.
-The following frames on forward sign is  the positions of the frames that i chose.
+The following frames on forward sign is  the positions of the frames that we chose.
 
    <img width="300" src=images/key.jpg></a>
    
@@ -53,7 +53,7 @@ Here the examples of detected signs.
    <img width="300" src=images/forward.png></a>
    <img width="300" src=images/right.png></a>
    <img width="300" src=images/stop.png></a>
-   <img width="300" src=images/yolyok.png></a>
+                             <img width="300" src=images/yolyok.png></a>
 # How to use 
 We begin by cloning the road_sign_detect_opencv repository.
 In a terminal, type:
