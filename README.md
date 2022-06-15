@@ -1,4 +1,4 @@
-# Road sign detector and classifier with Opencv
+# Road sign detector and classifier 
 İn this project we will detect and classify the signs below by using opencv.
 
 
@@ -40,7 +40,7 @@ We will use three frames in the detected circle to classify signs by required if
 The key is decide best frames to classify signs.
 The following frames on forward sign is  the positions of the frames that i chose.
 
-   <img width="200" src=images/key.jpg></a>
+   <img width="300" src=images/key.jpg></a>
    
 The last part is tuning if statements by dominant colors. 
 And that's it :)
